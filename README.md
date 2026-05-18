@@ -45,24 +45,30 @@ I love exploring vulnerabilities in web applications and CTF challenges. I enjoy
 ---
 
 ### 🛠️ Languages and Tools:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<p align="left">
-  
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="c" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="html5" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/></a>&nbsp;
-  
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" alt="php" width="40" height="40"/></a>&nbsp;
-</p>
-
+<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55" alt="arduino logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="55" alt="c logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="55" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="55" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="55" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="55" alt="php logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
+</div>
 ---
 
 ### 🌐 Connect with me:
