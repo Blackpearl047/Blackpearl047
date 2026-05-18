@@ -66,7 +66,7 @@ I love exploring vulnerabilities in web applications and CTF challenges. I enjoy
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" alt="linux logo"  />
 </div>
----
+
 
 ### 🌐 Connect with me:
 
