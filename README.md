@@ -1,4 +1,4 @@
-<img src="https://ibb.co/MygkWT7T" alt="Ankush Prasad Sah - GitHub Banner" width="100%"/>
+<img src="https://i.ibb.co/TDwMpXtX/Ankush-Prasad-Sah.png" alt="Ankush_Prasad_Sah - GitHub Banner" width="100%"/>
 
 ### A passionate Penetration Tester | VAPT Analyst | Ethical Hacker
 
