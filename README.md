@@ -2,8 +2,9 @@
 
 ### A passionate Penetration Tester | VAPT Analyst | Ethical Hacker
 
-![Profile Views](https://komarev.com/ghpvc/?username=Blackpearl047&label=Profile%20views&color=0e75b6&style=flat)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blackpearl047)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Blackpearl047&label=Profile%20views&color=0e75b6&style=flat" alt="Blackpearl047" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Blackpearl047" alt="Blackpearl047" /></a> </p>
 
 ---
 
