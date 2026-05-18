@@ -1,4 +1,4 @@
-# Pearl# 
+# Bio#
 Hi there, I'm Ankush 👋 
 ###  Cybersecurity Practitioner | Network Security & Application Pentesting
 
