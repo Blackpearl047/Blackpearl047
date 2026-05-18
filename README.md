@@ -1,4 +1,4 @@
-<img src="https://github.com/Blackpearl047/Blackpearl047/blob/3257d97296f52e82c3265fd5be9e92d9700c179a/Ankush%20Prasad%20Sah.png" alt="Ankush Prasad Sah - GitHub Banner" width="100%"/>
+<img src="https://ibb.co/gM8LdMDc" alt="Ankush Prasad Sah - GitHub Banner" width="100%"/>
 
 ### A passionate Penetration Tester | VAPT Analyst | Ethical Hacker
 
