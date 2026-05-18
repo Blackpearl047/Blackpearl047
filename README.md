@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/TDwMpXtX/Ankush-Prasad-Sah.png" alt="Ankush_Prasad_Sah - GitHub Banner" width="100%"/>
 
-### A passionate Penetration Tester | VAPT Analyst | Ethical Hacker
+### A Passionate Penetration Tester | VAPT Analyst | Ethical Hacker
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blackpearl047&label=Profile%20views&color=0e75b6&style=flat" alt="Blackpearl047" /> </p>
 
