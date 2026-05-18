@@ -2,8 +2,8 @@
 
 ### A passionate Penetration Tester | VAPT Analyst | Ethical Hacker
 
-![Profile Views](https://komarev.com/ghpvc/?username=ankushprasadsah&label=Profile%20views&color=0e75b6&style=flat)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankushprasadsah)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=Blackpearl047&label=Profile%20views&color=0e75b6&style=flat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Blackpearl047)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
