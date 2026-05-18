@@ -49,5 +49,5 @@ I am a passionate cybersecurity student and practitioner dedicated to understand
 ---
 
 ###  Connect with Me
-*   **LinkedIn:** [linkedin.com/in//ankushsah47/](https://linkedin.com)
-*   **TryHackMe Profile:** [tryhackme.com/p/yourusername](https://tryhackme.com)
+*   **LinkedIn:** [linkedin.com/in/ankushsah47/](https://linkedin.com)
+*   **TryHackMe Profile:** [tryhackme.com/p/AnkushSah](https://tryhackme.com)
