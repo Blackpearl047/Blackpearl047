@@ -28,7 +28,7 @@ Advanced web application security, OSINT, real-world attack simulation, and new 
 
 Web application security (SQLi, XSS, IDOR, SSRF, CSRF), Networking fundamentals (TCP/IP, DNS, VPN), Bug bounty programs, and responsible disclosure practices.
 
-### ⚡ Fun fact:
+### ⚡ Fun fact: 
 
 I love exploring vulnerabilities in web applications and CTF challenges. I enjoy guiding students in hands-on security labs and spreading awareness about ethical hacking.
 
