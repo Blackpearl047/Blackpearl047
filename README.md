@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Blackpearl047" alt="Blackpearl047" /></a> </p>
 
----
+----
 
 ### 🔭 I'm currently working on:
 
